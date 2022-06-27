@@ -1,0 +1,17 @@
+<svg width="203" height="153" xmlns="http://www.w3.org/2000/svg">
+
+    <g>
+        <title>background</title>
+        <rect fill="none" id="canvas_background" height="155" width="205" y="-1" x="-1"/>
+    </g>
+    <g>
+        <title>Layer 1</title>
+        <path fill-opacity="0" stroke-width="3" stroke="#545c66" id="svg_2" fill="#545c66" stroke-miterlimit="10" d="m199.487689,138.949981c0,6.32899 -4.71589,11.49679 -10.47976,11.49679l-175.54116,0c-5.76386,0 -10.47975,-5.1678 -10.47975,-11.49679l0,-121.97518c0,-6.32323 4.71589,-11.49679 10.47975,-11.49679l175.54116,0c5.76387,0 10.47976,5.17356 10.47976,11.49679l0,121.97518z"/>
+        <line stroke="#545c66" stroke-width="3" id="svg_3" fill="none" stroke-miterlimit="10" y2="22.076989" y1="22.076989" x2="198.213662" x1="3.816009"/>
+        <circle id="svg_5" fill="#545c66" stroke="#545c66" stroke-miterlimit="10" r="2" cy="14.554999" cx="11.508"/>
+        <circle id="svg_6" fill="#545c66" stroke="#545c66" stroke-miterlimit="10" r="2" cy="14.567999" cx="17.570992"/>
+        <circle id="svg_8" fill="#545c66" stroke="#545c66" stroke-miterlimit="10" r="2" cy="14.567999" cx="24.320978"/>
+        <path id="svg_11" d="m89.625028,93.359338" opacity="0.5" fill-opacity="null" stroke-width="2" stroke="#545c66" fill="none"/>
+        <rect stroke="#ed6d62" id="svg_15" height="70.749858" width="59.249878" y="71.60938" x="134.374939" stroke-width="2" fill="#ed6d62"/>
+    </g>
+</svg>
